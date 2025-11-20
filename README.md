@@ -38,3 +38,15 @@ Cada estudiante deberá:
 
 1. **Clonar este repositorio** y  actualziarlo al finalizar el examen.
 
+
+## Rúbrica de evaluación (100 puntos)
+
+- **a) Pregunta de investigación** – 15 puntos  
+- **b) Formulación de la hipótesis (H₀, H₁)** – 15 puntos  
+- **c) Análisis descriptivo del conjunto de datos** – 20 puntos  
+- **d) Selección y aplicación del método estadístico adecuado** – 20 puntos  
+- **e) Presentación de resultados (tablas, figuras, reporte de estadísticos)** – 15 puntos  
+- **f) Conclusión (interpretación ecológica/forestal)** – 15 puntos  
+
+**Total: 100 puntos**
+
