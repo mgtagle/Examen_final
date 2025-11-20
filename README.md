@@ -36,5 +36,5 @@ Cada archivo contiene 30 observaciones listas para ser analizadas en R, Python, 
 
 Cada estudiante deberá:
 
-1. **Clonar este repositorio** y subir actualziarlo al finalizar el examen
+1. **Clonar este repositorio** y  actualziarlo al finalizar el examen.
 
